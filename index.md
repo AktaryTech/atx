@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## ATX.JS
 
-You can use the [editor on GitHub](https://github.com/AktaryTech/atx/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This meetup is about all things JavaScript in Austin, Texas. We cover JavaScript wherever it can be found in its many forms. Server-side, client-side, desktop, VR/AR, or IoT... it doesn't matter. If it's JavaScript, we're going to talk about it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thank you to [Capital Factory](https://www.capitalfactory.com) for sponsoring event space in 2020 for ATX.JS. Capital Factory is the center of gravity for entrepreneurs in Texas. They meet the best entrepreneurs in Texas and introduce them to their first investors, employees, mentors and customers.
 
-### Markdown
+Check out our [meetup page](https://www.meetup.com/ATX-JS/events/) for upcoming events.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AktaryTech/atx/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
